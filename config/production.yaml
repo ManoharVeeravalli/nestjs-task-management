@@ -1,2 +1,5 @@
+server:
+  origin: http://myuiapplication.com
 db:
   synchronize: false
+
